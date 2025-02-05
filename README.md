@@ -20,7 +20,7 @@ I am Mahdieh
 
 - 🔭 I’m currently working on **LLM**
 
-- 🌱 I’m currently learning **LLM**
+- 🌱 I’m currently learning **LLM & Python**
 
 - 💬 Ask me about **C#,.Net,Python & LLM**
 
