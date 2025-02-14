@@ -1,7 +1,7 @@
 from random import choice
-# Create a list of foods in teh menue
+# Create a list of foods in the menu
 
 Resturant_Menu = ['Burger', 'spaghetti', 'Pommes', 'Salad']
 
-#print a random food from animes
+#print a random food from menu
 print(choice(Resturant_Menu))
