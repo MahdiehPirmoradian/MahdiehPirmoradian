@@ -37,7 +37,7 @@ according to "img1" you can see that the "Chatbot" directory has been created.</
 ~~~
 .\chatbot\Scripts\Activate.ps1
 ~~~         
-  + On some other Windows machine maybe this command works:
+  + On some other Windows machines maybe this command works:
 ~~~
 .\chatbot\Scripts\activate.bat or .\venv\Scripts\activate.bat
 ~~~
