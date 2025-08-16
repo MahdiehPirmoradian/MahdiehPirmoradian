@@ -12,7 +12,8 @@ I am Mahdieh
  -->
 
 <h1 align="center">Hi 👋, I'm Mahdieh</h1>
-<h3 align="center">A passionate developer with 2 years of hands-on experience in programming & machine learning, CI/CD pipelines, and agile project management, currently based in Germany and eager to contribute to innovative software solutions and automation projects.</h3>
+<h3 align="center">A passionate developer with 2 years of hands-on experience in programming & machine learning, CI/CD pipelines, and agile project management, currently based in Germany and eager to contribute to innovative software solutions and automation projects. interested in ai, chatbot & openai</h3>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mahdiehpirmoradian&label=Profile%20views&color=0e75b6&style=flat" alt="mahdiehpirmoradian" /> </p>
 
