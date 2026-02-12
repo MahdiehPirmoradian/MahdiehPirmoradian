@@ -12,7 +12,7 @@ I am Mahdieh
  -->
 
 <h1 align="center">Hi 👋, I'm Mahdieh</h1>
-<h3 align="center">Software developer with 3+ years of practical experience in programming, machine learning, CI/CD pipelines, and agile development environments. Based in Germany, I’m passionate about building intelligent systems and automation solutions that create real impact.
+<h3 >Software developer with 3+ years of practical experience in programming, machine learning, CI/CD pipelines, and agile development environments. Based in Germany, I’m passionate about building intelligent systems and automation solutions that create real impact.
 
 I 💖 Machine Learning, Data Science & AI, developing LLM-powered chatbots with OpenAI, and working within the Microsoft ecosystem (Visual Studio & M365).</h3>
 
